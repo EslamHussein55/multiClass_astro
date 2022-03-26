@@ -4,4 +4,7 @@ A multi-classification problem performed on astronomy data, where the goal is to
 2. analyze the data
 3. feature engineer the data
 
+#### The dataset used in this study can be downloaded fromt the folloing link:https://zenodo.org/record/6385500#.Yj7r6OdByCo (sdss_all_large_dr16_red_catwise.fits.gz
+)
+
 #### this repo is designed in a way that can help participants to explore new ideas like new ML tools, new feature engineering methods.
